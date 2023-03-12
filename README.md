@@ -1,2 +1,2 @@
 # shortlink
-Useful tool, that shortens links
+Useful tool for creating shorter links
